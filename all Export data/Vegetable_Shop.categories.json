@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "651ea0d2056e338f42cc1411"
+  },
+  "categoryname": "Fruits",
+  "date": {
+    "$date": "2023-10-05T11:41:06.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ea214dc8c71bafb0cbacd"
+  },
+  "categoryname": "Vegetable",
+  "date": {
+    "$date": "2023-10-05T11:46:28.921Z"
+  },
+  "__v": 0
+}]

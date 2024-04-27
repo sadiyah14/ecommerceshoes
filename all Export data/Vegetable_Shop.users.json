@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "650d9c484e676d86f3699b5a"
+  },
+  "firstname": "Krishna",
+  "lastname": "Kanhaiya",
+  "username": "kk",
+  "contact": "1231323444",
+  "email": "kk@gmail.com",
+  "password": "$2b$10$o5.DWY3rJLenbfutIUtdzO3931i53eCq2dWexmdVkO8QlnZr9knJ2",
+  "city": "Bhopal",
+  "birth": "2023-09-22",
+  "address": "aab, XYZ, 123",
+  "image": "image_1696944942608.png",
+  "date": {
+    "$date": "2023-09-22T13:53:12.115Z"
+  },
+  "__v": 0
+}]

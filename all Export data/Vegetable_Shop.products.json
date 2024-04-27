@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "651ea1dedc8c71bafb0cbaa4"
+  },
+  "productname": "Loki(Bottle gourd) 1kg",
+  "productimg": "productimg_1696506334789.jpg",
+  "categoryId": {
+    "$oid": "651ea214dc8c71bafb0cbacd"
+  },
+  "productprice": "32",
+  "description": "Loki is characterized by his silver tongue, intelligence, and unpredictable nature. He is a master manipulator, often scheming and plotting against his adversaries, including his adoptive brother Thor and the Avengers",
+  "date": {
+    "$date": "2023-10-05T11:45:34.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ea245dc8c71bafb0cbae4"
+  },
+  "productname": "Apple",
+  "productimg": "productimg_1696506437626.jpg",
+  "categoryId": {
+    "$oid": "651ea0d2056e338f42cc1411"
+  },
+  "productprice": "150",
+  "description": "The apple is one of the pome (fleshy) fruits. Apples at harvest vary widely in size, shape, colour, and acidity, but most are fairly round and some shade of red or yellow.",
+  "date": {
+    "$date": "2023-10-05T11:47:17.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ea2c6dc8c71bafb0cbb06"
+  },
+  "productname": "Gobhi",
+  "productimg": "productimg_1696506566682.jpg",
+  "categoryId": {
+    "$oid": "651ea214dc8c71bafb0cbacd"
+  },
+  "productprice": "50",
+  "description": "Cauliflowers are annual plants that reach about 0.5 metre (1.5 feet) tall and bear large rounded leaves that resemble collards (Brassica oleracea, variety acephala). ",
+  "date": {
+    "$date": "2023-10-05T11:49:26.684Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ea2f3dc8c71bafb0cbb0e"
+  },
+  "productname": "Banana",
+  "productimg": "productimg_1696506611163.jpg",
+  "categoryId": {
+    "$oid": "651ea0d2056e338f42cc1411"
+  },
+  "productprice": "60",
+  "description": "A banana is a curved, yellow fruit with a thick skin and soft sweet flesh. If you eat a banana every day for breakfast, your roommate might nickname you \"the monkey.\" ",
+  "date": {
+    "$date": "2023-10-05T11:50:11.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65201073f930eacd8883ae8b"
+  },
+  "productname": "Potato 1kg",
+  "productimg": "productimg_1696600420707.jpg",
+  "categoryId": {
+    "$oid": "651ea214dc8c71bafb0cbacd"
+  },
+  "productprice": "20",
+  "description": "Potato is a root vegetable and the most versatile of all. It is widely used across Indian kitchens paired with numerous other vegetables for preparation of several delicacies",
+  "date": {
+    "$date": "2023-10-06T13:49:39.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652011def930eacd8883aeae"
+  },
+  "productname": "Onion 1kg",
+  "productimg": "productimg_1696600542008.jpg",
+  "categoryId": {
+    "$oid": "651ea214dc8c71bafb0cbacd"
+  },
+  "productprice": "32",
+  "description": "Onions not just add distinct taste and texture to your curries, make your favourite street food taste better, and your plate of salad complete, they are also loaded with wonderful nutrients that boost immunity and protect against seasonal infections",
+  "date": {
+    "$date": "2023-10-06T13:55:42.010Z"
+  },
+  "__v": 0
+}]
