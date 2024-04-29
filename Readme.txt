@@ -1,6 +1,6 @@
 Frontend Start command:
 
-	cd online-vegetable-app
+	cd Be-unique-shoe-app
 	npm start
 
 Backend Start Command:
